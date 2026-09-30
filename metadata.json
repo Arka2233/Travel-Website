@@ -1,0 +1,6 @@
+{
+  "name": "Wayfarer - Local & Global Guided Tours",
+  "description": "Book local, national, and international tours seamlessly with verified local guides, secure checkout, and authentic community reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
